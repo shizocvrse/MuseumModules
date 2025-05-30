@@ -1,0 +1,11 @@
+D:\vstu\csharp\MuseumModules\ReportingLib\bin\Debug\net9.0\ReportingLib.deps.json
+D:\vstu\csharp\MuseumModules\ReportingLib\bin\Debug\net9.0\ReportingLib.dll
+D:\vstu\csharp\MuseumModules\ReportingLib\bin\Debug\net9.0\ReportingLib.pdb
+D:\vstu\csharp\MuseumModules\ReportingLib\obj\Debug\net9.0\ReportingLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\vstu\csharp\MuseumModules\ReportingLib\obj\Debug\net9.0\ReportingLib.AssemblyInfoInputs.cache
+D:\vstu\csharp\MuseumModules\ReportingLib\obj\Debug\net9.0\ReportingLib.AssemblyInfo.cs
+D:\vstu\csharp\MuseumModules\ReportingLib\obj\Debug\net9.0\ReportingLib.csproj.CoreCompileInputs.cache
+D:\vstu\csharp\MuseumModules\ReportingLib\obj\Debug\net9.0\ReportingLib.dll
+D:\vstu\csharp\MuseumModules\ReportingLib\obj\Debug\net9.0\refint\ReportingLib.dll
+D:\vstu\csharp\MuseumModules\ReportingLib\obj\Debug\net9.0\ReportingLib.pdb
+D:\vstu\csharp\MuseumModules\ReportingLib\obj\Debug\net9.0\ref\ReportingLib.dll

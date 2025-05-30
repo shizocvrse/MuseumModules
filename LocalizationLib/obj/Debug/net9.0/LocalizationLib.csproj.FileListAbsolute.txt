@@ -1,0 +1,11 @@
+D:\vstu\csharp\MuseumModules\LocalizationLib\bin\Debug\net9.0\LocalizationLib.deps.json
+D:\vstu\csharp\MuseumModules\LocalizationLib\bin\Debug\net9.0\LocalizationLib.dll
+D:\vstu\csharp\MuseumModules\LocalizationLib\bin\Debug\net9.0\LocalizationLib.pdb
+D:\vstu\csharp\MuseumModules\LocalizationLib\obj\Debug\net9.0\LocalizationLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\vstu\csharp\MuseumModules\LocalizationLib\obj\Debug\net9.0\LocalizationLib.AssemblyInfoInputs.cache
+D:\vstu\csharp\MuseumModules\LocalizationLib\obj\Debug\net9.0\LocalizationLib.AssemblyInfo.cs
+D:\vstu\csharp\MuseumModules\LocalizationLib\obj\Debug\net9.0\LocalizationLib.csproj.CoreCompileInputs.cache
+D:\vstu\csharp\MuseumModules\LocalizationLib\obj\Debug\net9.0\LocalizationLib.dll
+D:\vstu\csharp\MuseumModules\LocalizationLib\obj\Debug\net9.0\refint\LocalizationLib.dll
+D:\vstu\csharp\MuseumModules\LocalizationLib\obj\Debug\net9.0\LocalizationLib.pdb
+D:\vstu\csharp\MuseumModules\LocalizationLib\obj\Debug\net9.0\ref\LocalizationLib.dll

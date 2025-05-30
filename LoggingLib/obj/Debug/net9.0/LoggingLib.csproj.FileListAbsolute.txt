@@ -1,0 +1,11 @@
+D:\vstu\csharp\MuseumModules\LoggingLib\bin\Debug\net9.0\LoggingLib.deps.json
+D:\vstu\csharp\MuseumModules\LoggingLib\bin\Debug\net9.0\LoggingLib.dll
+D:\vstu\csharp\MuseumModules\LoggingLib\bin\Debug\net9.0\LoggingLib.pdb
+D:\vstu\csharp\MuseumModules\LoggingLib\obj\Debug\net9.0\LoggingLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\vstu\csharp\MuseumModules\LoggingLib\obj\Debug\net9.0\LoggingLib.AssemblyInfoInputs.cache
+D:\vstu\csharp\MuseumModules\LoggingLib\obj\Debug\net9.0\LoggingLib.AssemblyInfo.cs
+D:\vstu\csharp\MuseumModules\LoggingLib\obj\Debug\net9.0\LoggingLib.csproj.CoreCompileInputs.cache
+D:\vstu\csharp\MuseumModules\LoggingLib\obj\Debug\net9.0\LoggingLib.dll
+D:\vstu\csharp\MuseumModules\LoggingLib\obj\Debug\net9.0\refint\LoggingLib.dll
+D:\vstu\csharp\MuseumModules\LoggingLib\obj\Debug\net9.0\LoggingLib.pdb
+D:\vstu\csharp\MuseumModules\LoggingLib\obj\Debug\net9.0\ref\LoggingLib.dll
